@@ -1,0 +1,45 @@
+{
+	"game": 
+	{ 
+		"object": null 
+	},
+	"module": 
+	{
+		"canvas": 
+		{
+			"object": null,
+			"elementId": "canvas",
+			"width": 1024,
+			"height": 720
+		},
+		"Collision": 
+		{ 
+			"object": null 
+		},
+		"Input": 
+		{ 
+			"object": null 
+		},
+		"Moviment": 
+		{ 
+			"object": null 
+		}
+	},
+	"action":
+	{
+		"actionMove":
+		{
+			"moveUpAction":
+			{ 
+				"object": null,
+				"direction": 270,
+				"speed": 200
+			},
+	
+			"moveDownAction":
+			{ 
+				"object": null 
+			}
+		}
+	}
+}
